@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Author: checkem
 ## Title: SUCC-ecb
+## Version: 0.1
 ## Notes: Why sip if you can |cFFF6A3EFS U C C|cFFFFFFFF?|n (and have an enemy castbar)
 ## SavedVariablesPerCharacter: width, height, x, y, icon, iconPos, namePos, timePos
 
